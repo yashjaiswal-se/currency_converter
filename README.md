@@ -37,11 +37,5 @@ The app consists of:
 
 - Flutter SDK
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Yash Jaiswal](https://github.com/yashjaiswal-se)
 
