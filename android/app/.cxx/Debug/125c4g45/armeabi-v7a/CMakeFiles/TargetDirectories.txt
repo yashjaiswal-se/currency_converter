@@ -1,0 +1,2 @@
+D:/VIT-AP COLLEGE/Skills Folder/currency_converter/android/app/.cxx/Debug/125c4g45/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/VIT-AP COLLEGE/Skills Folder/currency_converter/android/app/.cxx/Debug/125c4g45/armeabi-v7a/CMakeFiles/rebuild_cache.dir
