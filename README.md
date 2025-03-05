@@ -11,6 +11,11 @@ A simple Flutter application that converts USD to INR using a predefined convers
 
 ## Screenshots
 
+![WhatsApp Image 2025-03-05 at 17 43 37_72f0716d](https://github.com/user-attachments/assets/a69d1f32-01a0-4a99-8703-1ed1d5cd58e1)
+![WhatsApp Image 2025-03-05 at 17 43 38_3c0a93a8](https://github.com/user-attachments/assets/ee3963f7-0d71-48bb-8ce7-007d97d287df)
+![WhatsApp Image 2025-03-05 at 17 43 38_30bf178d](https://github.com/user-attachments/assets/c1ac097a-e0ce-4c87-876c-425f5cbab279)
+
+
 
 
 ## Usage
